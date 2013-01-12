@@ -1,0 +1,26 @@
+Database
+
+    Models: create statements
+
+        Users
+        Games: game metadata, e.g. players, times, scores, etc.
+        History: game histories / moves
+
+Registration
+
+    registration.html
+
+Front page
+
+    index.html
+
+    Decide whether to display list of ongoing games
+
+Home screen: after login
+
+    home.html
+
+Game board
+
+    Home user input
+    Remote user input
